@@ -30,7 +30,9 @@ FPGA_ANN/
 |   └── testbench/
 |
 └── python_codes/
-    └── testbench/
+|   └── testbench/
+|
+└── weekly_task/
 
 
 ```
